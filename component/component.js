@@ -5,11 +5,11 @@ const btnService = document.querySelector('.service-button');
 const btnProject = document.querySelector('.project-button');
 
 btnService.addEventListener('click', () => {
-    window.location.href = 'Sheppy/service.html';
+    window.location.href = 'service.html';
 });
 
 btnProject.addEventListener('click', () => {
-    window.location.href = 'Sheppy/project.html';
+    window.location.href = 'project.html';
 });
 
 
